@@ -1,5 +1,5 @@
-# scFunctions
-A collection of functions for single cell data analysis by Florian Wuennemann. Mainly operates on Seurat objects. For more information on Seurat and the object structure, see https://satijalab.org/seurat/.
+# gwas.sak - Genome wide association studies. swiss army knife
+A collection of functions to analyze and plot data from human genetic analysis for genome wide association studies in R.
 
 # Installation
 Install the package using the devtools install_github function as shown below:
