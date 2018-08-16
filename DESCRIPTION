@@ -1,0 +1,9 @@
+Package: gwas.sak
+Title: Genome wide association study - swiss army knife
+Version: 0.0.0.9000
+Authors@R: person("Florian", "Wuennemann", email = "flowuenne@gmail.com", role = c("aut", "cre"))
+Description: Package containing general functions to analyze human genetic data for genome wide association studies.
+Depends: R (>= 3.4.2)
+License: MIT License
+Encoding: UTF-8
+LazyData: true
