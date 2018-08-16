@@ -6,3 +6,10 @@
 #' @export
 #' @examples
 #' plot_UKBB_pheno()
+
+plot_UKBB_pheno <- function(pheno_data) {
+
+  print(colnames(pheno_data))
+
+
+}
