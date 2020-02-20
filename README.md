@@ -4,5 +4,8 @@ A collection of functions to analyze and plot data from human genetic analysis f
 # Installation
 Install the package using the devtools install_github function as shown below:
 
+
+```
 library(devtools)
 install_github("FloWuenne/scFunctions")
+```
